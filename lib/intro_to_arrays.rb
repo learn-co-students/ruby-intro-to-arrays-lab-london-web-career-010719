@@ -24,3 +24,8 @@ def last_element(array)
   indexed_element = array[-1]
   indexed_element
 end
+
+def first_element_with_array_methods(array)
+  first_element = array.shift()
+  first_element
+end
