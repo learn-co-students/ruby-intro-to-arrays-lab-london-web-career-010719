@@ -4,6 +4,6 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  arr = [a,b]
+  arr = [1,2]
   arr
 end
