@@ -35,3 +35,10 @@ def last_element_with_array_methods(array)
   first_element = array.pop()
   first_element
 end
+
+
+
+def leng_of_array(array)
+  length = array.length()
+  length
+end
