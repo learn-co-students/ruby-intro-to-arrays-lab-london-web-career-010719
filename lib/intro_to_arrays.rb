@@ -38,7 +38,7 @@ end
 
 
 
-def lengtj_of_array(array)
+def length_of_array(array)
   length = array.length()
   length
 end
