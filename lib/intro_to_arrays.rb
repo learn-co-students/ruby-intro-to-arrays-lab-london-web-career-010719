@@ -13,3 +13,8 @@ def first_element(array)
   indexed_element = array[0]
   indexed_element
 end
+
+def third_element(array)
+  indexed_element = array[2]
+  indexed_element
+end
