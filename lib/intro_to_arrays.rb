@@ -10,6 +10,6 @@ end
 
 
 def first_element(array)
-indexed_element = array[0]
-indexed_element
+  indexed_element = array[0]
+  indexed_element
 end
