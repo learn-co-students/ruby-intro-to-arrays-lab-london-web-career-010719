@@ -18,3 +18,9 @@ def third_element(array)
   indexed_element = array[2]
   indexed_element
 end
+
+
+def last_element(array)
+  indexed_element = array[-1]
+  indexed_element
+end
